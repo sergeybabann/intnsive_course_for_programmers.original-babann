@@ -1,0 +1,25 @@
+---------------------- Conspectus ---------------------
+
+----- Урок 1 часть 1 -----
+
+- run command:
+npm init -y 
+создаем файл package.json
+(-y означает согласие на все вопросы)
+
+- run command:
+npm i webpack webpack-cli webpack-dev-server -D
+устанавливаем webpack 
+
+- run command:
+npm install -D babel-loader @babel/core @babel/preset-env 
+
+(Это команда установки babel-loader и др., она представлена на оф. сайте по адресу: 
+https://www.npmjs.com/package/babel-loader)
+(Эта команда выглядит полностью вот так: 
+npm install -D babel-loader @babel/core @babel/preset-env webpack
+мы убрали в конце команды webpack потому, что он ужне у нас установлен)
+
+
+
+

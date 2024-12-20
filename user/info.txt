@@ -1,2 +1,7 @@
 git repo: 
 
+https://github.com/sergeybabann/intnsive_course_for_programmers.original-babann
+
+
+
+video stop: Урок 1, часть 1, время: 00.53.54 - настройка webpack выполнена
