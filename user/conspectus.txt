@@ -2,6 +2,7 @@
 
 ----- Урок 1 часть 1 -----
 
+-------------------- Настройка проекта и webpack --------------------
 - run command:
 npm init -y 
 создаем файл package.json
@@ -20,6 +21,17 @@ https://www.npmjs.com/package/babel-loader)
 npm install -D babel-loader @babel/core @babel/preset-env webpack
 мы убрали в конце команды webpack потому, что он ужне у нас установлен)
 
+video stop: 00.53.54 
 
+--------------------------------------------------------------------------------------------------
 
+-------------------- Настройка Linter -------------------- 
+video start: 00.53.54
 
+- run command: 
+npm i eslint -D 
+устанавливаем eslint 
+
+- run command: 
+npm i -D babel-eslint 
+устанавливам babel-eslint 
